@@ -1,14 +1,11 @@
-body{background-color: #99ddff;}
+body{background-color:  #ccccb3;}
 h1{color: #000000;
 	margin-left: 15px}
 h2{color: #0099e6;
 	margin-left: 15px}
+p{font size: 150% }
 #nav{border-style: 3px dashed;
-	border-left:3px dotted;
-	border-right:3px dotted;
-	border-top:3px dashed;
-	border-bottom:3px dashed;
 	margin: 10px 5px 15px 20px;
 	padding: 15px 10px 10px 15px;}
-#nav a {text-decoration: line-through;
-		color:#0059b3;}
+#nav a {text-decoration: none;
+color:#0059b3;}
