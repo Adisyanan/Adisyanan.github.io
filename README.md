@@ -1,1 +1,0 @@
-# adisyanan.github.io
